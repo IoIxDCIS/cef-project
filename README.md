@@ -10,7 +10,7 @@ The [Chromium Embedded Framework](https://bitbucket.org/chromiumembedded/cef/) (
 
 First install some necessary tools and download the cef-project source code.
 
-1\. Install [Python](https://www.python.org/downloads/). Version 3.9 to 3.11 is required.
+1\. Install [Python](https://www.python.org/downloads/). Version 3.6 or below is required.
 
 2\. Install platform-specific build tools.
 
